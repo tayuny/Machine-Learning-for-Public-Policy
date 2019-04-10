@@ -31,3 +31,5 @@ re 3.x
 geopy 1.18.1
 <br>
 pickle 0.7.4
+
+Notice: the result may have small difference between using the downloaded datasets and direct requested (via url) datasets from Chicago Data Protal. For the crime17_cleaned.csv and crime18_cleaned.csv used in the report file are the downloaded datasets, which may be different to the codes in ML_integrating.py.
