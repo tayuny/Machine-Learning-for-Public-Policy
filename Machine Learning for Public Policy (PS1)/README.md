@@ -1,5 +1,7 @@
 ## Machine Learning for Public Policy HW1
 
+This purpose of this assignment is to analyze crime patterns and community characteristics in Chicago.
+
 ### The folder contains files and folders:
 
     ML_util.py: helper fuctions for the main report
