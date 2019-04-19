@@ -1,4 +1,4 @@
-## Machine Learning for Public Policy HW1
+## Machine Learning for Public Policy HW2
 
 This purpose of this assignment is to build basic machine learning pipeline.
 
