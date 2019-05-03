@@ -1,4 +1,4 @@
-## Machine Learning for Public Policy HW2
+## Machine Learning for Public Policy HW3
 This purpose of this assignment is to improve machine learning pipeline.
 
 ## The folder contains files and folders
