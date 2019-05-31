@@ -14,6 +14,7 @@ This purpose of this assignment is to improve machine learning pipeline in HW3.
 * evaluation.py: functions of evaluation methods
 * clf_define.py: functions implementing classifier definition and implement training, testing, and evaluations over time
 * unsupervised.py: functions of unsupervised learning models and visualization
+* tree_util.py: functions for vizualization of tree
 
 #### ipynb files: The first part of three of the ipynb files are the same, they all contains the main data pre-processing step before the model is trained
 * HW3_fixed_simple.ipynb: This file contains all the classifiers with simple parameters, it is used as a proof that the pipeline is able to be implemented and the plotting is performing
