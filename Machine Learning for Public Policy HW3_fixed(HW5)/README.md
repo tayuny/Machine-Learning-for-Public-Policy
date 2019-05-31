@@ -4,7 +4,7 @@ This purpose of this assignment is to improve machine learning pipeline in HW3.
 ### The folder contains files with .py, .ipynb, pdf and pickle data
 
 #### pdf file
-* Machine Learning for Public Policy HW5 report.pdf: The final report for this analysis
+* Machine Learning for Public Policy HW5 report.pdf: The final report for this analysis (using result from HW3_fixed-sub_small.ipynb with HW3_fixed-sub_small_others.ipynb as supplement
 
 #### py files
 * data_util.py: functions for data type transformation and summary statistics
