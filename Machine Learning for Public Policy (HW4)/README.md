@@ -8,9 +8,10 @@ The purpose of this assignment is to develop pipeline for unsupervised learning.
 
 * Machine Learning for Public Policy HW4 final_report.pdf: The final report for this analysis.
 
-### data_util.py: functions for data type transformation and summary statistics
+### py file
 
 * unsupervised.py: functions of unsupervised learning models and visualization (main py file in this task)
+* data_util.py: functions for data type transformation and summary statistics
 * train_test_split.py: functions for train_test splitting
 * imputation.py: functions dealing with missing data
 * feature_generation.py: functions dealing with feature generations
@@ -19,12 +20,9 @@ The purpose of this assignment is to develop pipeline for unsupervised learning.
 
 
 ### ipynb files: The first part of three of the ipynb files are the same, they all contains the main data pre-processing step before the model is trained
-HW3_fixed_simple.ipynb: This file contains all the classifiers with simple parameters, it is used as a proof that the pipeline is able to be implemented and the plotting is performing
-HW3_fixed-sub_small.ipynb: This file contains the high priority classifiers (decisiion tree, random forest, logistics) with the analysis of the optimal classifier and performance over time
-HW3_fixed-sub_small_others.ipynb: This file is used to generate the full performance matrix (save as pickle files) for general evaluations for all models over time.
-pickle data:
-cross_val_performance_small_final: pickle files contains the full performance matrix for classifiers except SVM and KNN
-cross_val_performance_other_final: pickle files contains the performance matrix for classifiers SVM and KNN
+data_transformer.ipynb: This notebook contains the note to derive the cleaned dataset used for testing
+unsupervised_testing.ipynb: This notebook displays the functions in the unsupervised pipeline and generate the result use in the analysis
+
 ### Dependency:
 * python 3.7
 * pandas 0.23.4
